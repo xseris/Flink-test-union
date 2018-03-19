@@ -1,0 +1,6 @@
+/target/
+/bin/
+/.checkstyle
+/.classpath
+/.project
+/.settings
